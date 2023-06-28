@@ -1,0 +1,225 @@
+[
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-01 09:33:36",
+    "endTime": "2023-01-01 16:01:01",
+    "workHour": 9,
+    "totalWork": "06:27",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "date": "2023-01-02",
+    "status": "leave"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-03 09:17:35",
+    "endTime": "2023-01-03 18:44:09",
+    "workHour": 9,
+    "totalWork": "09:26",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-04 09:50:47",
+    "endTime": "2023-01-04 18:46:11",
+    "workHour": 9,
+    "totalWork": "08:55",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-05 09:50:12",
+    "endTime": "2023-01-05 18:45:21",
+    "workHour": 9,
+    "totalWork": "08:55",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "date": "2023-01-07",
+    "status": "leave"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-08 09:47:27",
+    "endTime": "2023-01-08 19:26:35",
+    "workHour": 9,
+    "totalWork": "09:39",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-09 10:04:38",
+    "endTime": "2023-01-09 18:47:33",
+    "workHour": 9,
+    "totalWork": "08:42",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-10 10:03:25",
+    "endTime": "2023-01-10 20:37:59",
+    "workHour": 9,
+    "totalWork": "10:34",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-11 09:48:10",
+    "endTime": "2023-01-11 18:58:02",
+    "workHour": 9,
+    "totalWork": "09:09",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-12 11:39:03",
+    "endTime": "2023-01-12 18:39:03",
+    "workHour": 9,
+    "totalWork": "07:00",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "date": "2023-01-14",
+    "status": "leave"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-15 09:06:04",
+    "endTime": "2023-01-15 18:09:53",
+    "workHour": 9,
+    "totalWork": "09:03",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-16 09:22:37",
+    "endTime": "2023-01-16 18:36:13",
+    "workHour": 9,
+    "totalWork": "09:13",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-17 09:12:07",
+    "endTime": "2023-01-17 20:11:34",
+    "workHour": 9,
+    "totalWork": "10:59",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-18 09:18:34",
+    "endTime": "2023-01-18 18:18:41",
+    "workHour": 9,
+    "totalWork": "09:00",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-19 09:16:05",
+    "endTime": "2023-01-19 19:15:07",
+    "workHour": 9,
+    "totalWork": "09:59",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "date": "2023-01-21",
+    "status": "leave"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-22 09:35:58",
+    "endTime": "2023-01-22 18:18:45",
+    "workHour": 9,
+    "totalWork": "08:42",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-23 09:26:14",
+    "endTime": "2023-01-23 19:24:02",
+    "workHour": 9,
+    "totalWork": "09:57",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-24 10:29:30",
+    "endTime": "2023-01-24 19:33:20",
+    "workHour": 9,
+    "totalWork": "09:03",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-25 10:08:35",
+    "endTime": "2023-01-25 19:06:23",
+    "workHour": 9,
+    "totalWork": "08:57",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-26 09:35:10",
+    "endTime": "2023-01-26 19:34:30",
+    "workHour": 9,
+    "totalWork": "09:59",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "date": "2023-01-28",
+    "status": "leave"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-29 10:15:57",
+    "endTime": "2023-01-29 20:06:51",
+    "workHour": 9,
+    "totalWork": "09:50",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-30 10:11:41",
+    "endTime": "2023-01-30 19:11:43",
+    "workHour": 9,
+    "totalWork": "09:00",
+    "status": "present"
+  },
+  {
+    "id": "20",
+    "name": "Khoaiz",
+    "startTime": "2023-01-31 09:54:03",
+    "endTime": "2023-01-31 19:02:10",
+    "workHour": 9,
+    "totalWork": "09:08",
+    "status": "present"
+  }
+]
